@@ -1,0 +1,146 @@
+1	Sàng_lọc	_	V	V	_	0	root	_	root+L
+2	.	_	.	.	_	1	punct	_	punct/L
+
+1	Và	_	C	C	_	2	dep	_	dep/R
+2	tôi	_	P	P	_	0	root	_	root+L_R
+3	.	_	.	.	_	2	punct	_	punct/L
+
+1	Chỉ	_	R	R	_	2	nmod	_	nmod/R
+2	thế	_	P	P	_	0	root	_	root+L_R
+3	thôi	_	T	T	_	2	nmod	_	nmod/L
+4	.	_	.	.	_	2	punct	_	punct/L
+
+1	Biển	_	N	N	_	2	sub	_	sub/R
+2	xóa	_	V	V	_	0	root	_	root+L_R
+3	tất_cả	_	P	P	_	2	dob	_	dob/L
+4	.	_	.	.	_	2	punct	_	punct/L
+
+1	Vượt	_	V	V	_	0	root	_	root+L
+2	lên	_	R	R	_	1	adv	_	adv/L
+3	số_phận	_	N	N	_	1	dob	_	dob/L
+4	.	_	.	.	_	1	punct	_	punct/L
+
+1	Toàn	_	N	Np	_	3	sub	_	sub/R
+2	âm_thầm	_	A	A	_	3	vmod	_	vmod/R
+3	theo	_	V	V	_	0	root	_	root+L_R
+4	Thư	_	N	Np	_	3	dob	_	dob/L
+5	.	_	.	.	_	3	punct	_	punct/L
+
+1	Mùa	_	N	N	_	4	sub	_	sub/R+L
+2	khô	_	A	A	_	1	nmod	_	nmod/L
+3	còn	_	R	R	_	4	amod	_	amod/R
+4	dễ_chịu	_	A	A	_	0	root	_	root+L_R
+5	.	_	.	.	_	4	punct	_	punct/L
+
+1	Còn	_	V	V	_	0	root	_	root+L
+2	lại	_	R	R	_	1	adv	_	adv/L
+3	toàn	_	R	R	_	4	nmod	_	nmod/R
+4	súng_đạn	_	N	N	_	1	dob	_	dob/L+R
+5	.	_	.	.	_	1	punct	_	punct/L
+
+1	Tên	_	N	N	_	3	sub	_	sub/R+L
+2	chị	_	N	N	_	1	nmod	_	nmod/L
+3	là	_	V	V	_	0	root	_	root+L_R
+4	Trâm	_	N	Np	_	3	dob	_	dob/L
+5	.	_	.	.	_	3	punct	_	punct/L
+
+1	Cuộc	_	N	N	_	4	sub	_	sub/R+L
+2	gọi	_	V	V	_	1	nmod	_	nmod/L
+3	này	_	P	P	_	1	det	_	det/L
+4	đáng	_	V	V	_	0	root	_	root+L_R
+5	nghi	_	V	V	_	4	vmod	_	vmod/L
+6	.	_	.	.	_	4	punct	_	punct/L
+
+1	Em	_	N	N	_	2	sub	_	sub/R
+2	còn	_	V	V	_	0	root	_	root+L_R
+3	họ_hàng	_	N	N	_	2	dob	_	dob/L+L
+4	,	_	,	,	_	3	punct	_	punct/L
+5	quê_quán	_	N	N	_	3	nmod	_	nmod/L
+6	.	_	.	.	_	2	punct	_	punct/L
+
+1	Sống	_	V	V	_	0	root	_	root+L
+2	chung	_	A	A	_	1	vmod	_	vmod/L
+3	với	_	E	E	_	1	vmod	_	vmod/L+L
+4	...	_	...	...	_	3	punct	_	punct/L
+5	bụi	_	N	N	_	3	pob	_	pob/L
+6	.	_	.	.	_	1	punct	_	punct/L
+
+1	Ngày	_	N	N	_	4	tmp	_	tmp/R+L
+2	thứ	_	N	N	_	1	nmod	_	nmod/L+L
+3	tư	_	M	M	_	2	det	_	det/L
+4	thấy	_	V	V	_	0	root	_	root+L_R
+5	Nha_Trang	_	N	Np	_	4	dob	_	dob/L
+6	.	_	.	.	_	4	punct	_	punct/L
+
+1	Những	_	L	L	_	2	det	_	det/R
+2	thứ	_	N	N	_	4	sub	_	sub/R+L_R
+3	đó	_	P	P	_	2	det	_	det/L
+4	cạn_kiệt	_	V	V	_	0	root	_	root+L_R
+5	dần	_	R	R	_	4	adv	_	adv/L
+6	.	_	.	.	_	4	punct	_	punct/L
+
+1	Phát_hiện	_	V	V	_	0	root	_	root+L
+2	một	_	M	M	_	3	det	_	det/R
+3	tàu	_	N	N	_	4	sub	_	sub/R+R
+4	chở	_	V	V	_	1	vmod	_	vmod/L+L_R
+5	hàng	_	N	N	_	4	dob	_	dob/L+L
+6	lậu	_	A	A	_	5	nmod	_	nmod/L
+7	.	_	.	.	_	1	punct	_	punct/L
+
+1	Chị	_	N	N	_	4	sub	_	sub/R+L
+2	của	_	E	E	_	1	nmod	_	nmod/L+L
+3	Viện	_	N	Np	_	2	pob	_	pob/L
+4	bị	_	V	V	_	0	root	_	root+L_R
+5	bại_liệt	_	A	A	_	4	vmod	_	vmod/L
+6	toàn_thân	_	N	N	_	4	dob	_	dob/L
+7	.	_	.	.	_	4	punct	_	punct/L
+
+1	Ông	_	N	N	_	2	sub	_	sub/R
+2	đến	_	V	V	_	0	root	_	root+L_R
+3	ngay	_	T	T	_	2	vmod	_	vmod/L
+4	nhé	_	T	T	_	2	vmod	_	vmod/L
+5	!	_	.	.	_	2	punct	_	punct/L
+6	"	_	"	"	_	2	punct	_	punct/L
+7	.	_	.	.	_	2	punct	_	punct/L
+
+1	Còn	_	V	V	_	0	root	_	root+L
+2	không	_	R	R	_	1	adv	_	adv/L
+3	dấu_vết	_	N	N	_	1	dob	_	dob/L+L
+4	một	_	M	M	_	5	det	_	det/R
+5	con	_	N	Nc	_	3	nmod	_	nmod/L+L_R
+6	đường	_	N	N	_	5	nmod	_	nmod/L
+7	?	_	.	.	_	1	punct	_	punct/L
+
+1	Bà	_	N	Nc	_	4	sub	_	sub/R+L
+2	Năm	_	N	Np	_	1	nmod	_	nmod/L
+3	đã	_	R	R	_	4	amod	_	amod/R
+4	ngót_nghét	_	A	A	_	0	root	_	root+L_R
+5	70	_	M	M	_	6	det	_	det/R
+6	tuổi	_	N	N	_	4	amod	_	amod/L+R
+7	.	_	.	.	_	4	punct	_	punct/L
+
+1	Chiếc	_	N	Nc	_	0	root	_	root+L
+2	tủ	_	N	N	_	1	nmod	_	nmod/L
+3	radio	_	N	Nb	_	1	nmod	_	nmod/L
+4	quen_thuộc	_	A	A	_	1	nmod	_	nmod/L
+5	giữa	_	E	E	_	1	loc	_	loc/L+L
+6	nhà	_	N	N	_	5	pob	_	pob/L
+7	.	_	.	.	_	1	punct	_	punct/L
+
+1	Khi	_	N	N	_	5	tmp	_	tmp/R+L
+2	trở_về	_	V	V	_	1	vmod	_	vmod/L
+3	,	_	,	,	_	5	punct	_	punct/R
+4	hầu_hết	_	X	X	_	5	sub	_	sub/R
+5	tiếp_tục	_	V	V	_	0	root	_	root+L_R
+6	làm_việc	_	V	V	_	5	vmod	_	vmod/L+L
+7	tốt	_	A	A	_	6	mnr	_	mnr/L
+8	.	_	.	.	_	5	punct	_	punct/L
+
+1	1	_	M	M	_	2	det	_	det/R
+2	g	_	N	Nu	_	7	tmp	_	tmp/R+L_R
+3	đêm	_	N	N	_	2	nmod	_	nmod/L+L
+4	hôm	_	N	N	_	3	nmod	_	nmod/L
+5	đó	_	P	P	_	3	det	_	det/L
+6	Nhi	_	N	Np	_	7	sub	_	sub/R
+7	thành_công	_	V	V	_	0	root	_	root+L_R
+8	.	_	.	.	_	7	punct	_	punct/L
